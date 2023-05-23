@@ -1,0 +1,4 @@
+rootProject.name = 'Kafka-exercise'
+include 'producers'
+include 'consumers'
+
